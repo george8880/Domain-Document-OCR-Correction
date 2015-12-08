@@ -1,0 +1,38 @@
+http://www.searchlit.org/novels
+http://commonplacebook.com/culture/literature/books/word-count-for-famous-novels/
+
+Adventures of Tom (Mark Twain) - 78,260 (0.8941558161902985)
+Alice in Wonderland (Lewis Carroll) - 27,241 (0.6903250332636381) 
+Christmas Carol (Charles Dickens) - 29,100 (0.9379973241321033)
+Frankenstein (Mary Shelley) - 75,142 (0.7961034105173197)
+Importance of being Earnest (Oscar Wilde) - 21,644 (0.8651778733385458) 
+Jungle Book (Rudyard Kipling) - 48,672 (0.9228597558551036) 
+Time Machine (H.G. Wells) - 33,015 (0.8416715898137496)
+Tess of the Dubervilles (Thomas Hardy) - 148,382 (0.8834587225788201)
+Wuthering Heights (Charlotte Bronte) - 107,945 (0.6339324251998412)
+Sherlock (Conan) - 104,615 (0.6564083407564917)
+
+Total: ~658,000
+
+
+Mansfield Park - 160,802		  (0.4849472357651132)
+Sense and Sensibility - 119,394           (0.7833825390130746)
+Emma - 155,887                            (0.7877109638704838)
+Pride and Prejudice - 122,685             (0.8423437152483175)
+Persuasion - 87,978                       (0.7331299763417358)
+
+Total: ~647,000
+
+Testing on:
+Northanger Abbey - 77,977                 (0.8306406757298633) *Fixed —-
+					  (0.8958500426897105)
+
+
+NOT USED:
+Picture of Dorian Gray - 79,553
+Adventures of Huck - 110,668
+Jane Eyre - 183,858
+Oliver Twist - 163,624
+Tess - 148,382
+Vanity Fair - 314,758
+Time Machine (H.G. Wells) - 33,015
